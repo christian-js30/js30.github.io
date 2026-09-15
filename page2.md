@@ -2,17 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-<h1>Creating a website</h1>
+<h1>This is another page.</h1>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <p><em>This is italics </em>and this is <strong>bold.</strong>
-    <p>This is a list:</p>
-    <ol>
-       <li><strong>List:</strong><ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-    </ol>
-    <p>Here is a <a href="https://github.com/christian-js30/js30.github.io/edit/main/README.md">link</a>.</p>
+    <p>Here is another link</p>
+    <p><a href="https://github.com/christian-js30/js30.github.io/edit/main/README.md">Link</a>.</p>
   </body>
 </html>
