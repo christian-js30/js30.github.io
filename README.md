@@ -1,2 +1,1 @@
-# js30.github.io
-title: Homepage
+# js30.github.i
