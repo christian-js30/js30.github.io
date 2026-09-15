@@ -13,6 +13,6 @@
         <li>Item 1</li>
         <li>Item 2</li>
     </ol>
-    <p>Here is a <a href="https://github.com/christian-js30/js30.github.io/edit/main/README.md">link</a>.</p>
+    <p>Here is a <a href="https://github.com/christian-js30/js30.github.io/edit/main/page2.md">link</a>.</p>
   </body>
 </html>
