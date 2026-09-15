@@ -7,6 +7,6 @@
   </head>
   <body>
     <p>Here is another link</p>
-    <p><a href="https://github.com/christian-js30/js30.github.io/edit/main/README.md">Link</a>.</p>
+    <p><a href="https://github.com/christian-js30/js30.github.io/edit/main/page1.md">Link</a>.</p>
   </body>
 </html>
