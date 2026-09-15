@@ -1,1 +1,1 @@
-# js30.github.i
+# js30.github.io
