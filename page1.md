@@ -16,6 +16,5 @@
     <p>Here is a <a href="https://github.com/christian-js30/js30.github.io/edit/main/page2.md">link</a>.</p>
          <p><img alt +"Image title+"icon" src=https://assets.streamlinehq.com/image/private/w_512,h_512,ar_1/f_auto/v1/icons/3/soccer-ball-arlfm1ey8ds0so6lqlkbjw.png/soccer-ball-02dbbkh1w4nbkqbunc82ek9.png?_a=DATAiZAAZAA0</p>
          <p>That was an image.</p>
-         <p><iframe  width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Youtube video player" allow full screen><?iframe></p>
   </body>
 </html>
