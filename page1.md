@@ -2,10 +2,10 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <h1>Creating a website</h1>  
+<h1>Creating a website</h1>
     <p><em>This is italics </em>and this is <strong>bold.</strong>
     <p>This is a list:</p>
     <ol>
