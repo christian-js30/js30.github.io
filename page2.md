@@ -14,3 +14,10 @@ Here is an unordered list:
     * That Item
 
 Here is a [link](page1.html).
+
+# Here is a table:
+| Item Name | Number |
+| :--- | ---: |
+| Item | 8 |
+| Item | 9 |
+| Item | 10 |
