@@ -1,12 +1,13 @@
 body {
-    background-color: royalblue;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
   }
   
   h1 {
-    color: #0000F0;
+    color: ##28282B;
   }
 
   p {
-    color: yellow;
+    color: red;
+    font-size: 16;
   }
