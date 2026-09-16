@@ -15,6 +15,8 @@ Here is an unordered list:
 
 Here is a [link](page1.html).
 
+Here is [another link](style.css).
+
 # Here is a table:
 | Item Name | Number |
 | :--- | ---: |
